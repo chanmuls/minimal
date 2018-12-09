@@ -1,0 +1,28 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+ul.social-media {
+  list-style: none;
+  margin-top: -30px;
+}
+
+.social-media li {
+  width:65px;
+  display: inline-block;
+}
+
+.social-media a {
+  font-size:50px;
+  color: #2f2b2c;
+}
+
+.social-media a:hover, .social-media a:focus {
+  color:#675C5C;
+  font-weight:bold;
+}
+
+.social-media ul a:active {
+  background-color:#f0f0f0;
+}
