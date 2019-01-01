@@ -17,10 +17,16 @@
     <div class="wrapper">
       <header>
         {% if site.logo %}
-        <h1><a href="{{ "/" | absolute_url }}">
-          <img src="{{site.logo | relative_url}}" alt="{{ site.title | default: site.github.repository_name }}" />
-        </a></h1>
+        <a href="{{ '/' | absolute_url }}" class="logo">
+        <img src="{{site.logo | relative_url}}" alt="{{ site.title | default: site.github.repository_name }}" />
+        </a>
         {% endif %}
+
+        <div class="trigger">
+          <a class="page-link" href="{{ '/' | absolute_url }}">Home</a>
+          <a class="page-link" href="/about/">Blog</a>
+          <a class="page-link" href="/about/">About</a>
+        </div>
 
 
         <ul class="social-media">
