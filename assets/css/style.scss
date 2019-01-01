@@ -54,4 +54,8 @@ a.page-link {
   padding: 1px 40px;
   font-weight: bold;
   font-size: x-large;
+
+  @media print, screen and (max-width: 720px) {
+    padding: 1px 0px;
+  }
 }
