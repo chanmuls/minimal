@@ -1,36 +1,29 @@
 ---
 layout: default
-permalink: /about
+title: About
+description: 백엔드 개발자 백승호입니다.
 ---
 
 ## About
 ![Aiden]({{ site.url }}/assets/img/about.jpg "Backend developer")
 
-안녕하세요!
-백엔드 개발에 종사하고 있는 개발자 백승호입니다.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+안녕하세요!<br>
+백엔드 개발자 백승호입니다.
 
 
 ## Skills
 
-*   HTML - Jade - Haml - Erb
+*   AWS - Spring - Jpa
 *   Responsive (Mobile First)
 *   CSS (Stylus, Sass, Less)
 *   Css Frameworks (Bootstrap, Foundation)
 *   Javascript (Design Patterns, Testes)
 *   NodeJS
-*   AngularJS - ReactJS
-*   Grunt - Gulp - Yeoman
+*   VueJS - ReactJS
 *   Git
 *   PHP
 *   Python
-*   MySQL - MongoDB
+*   MySQL - NoSQL - Cache
 *   Scrum and Kanban
 *   TDD e Continuous Integration
 
